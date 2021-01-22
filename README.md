@@ -10,5 +10,11 @@ the dataset in consideration is a combination of world news and stock price shif
 - Class 1-> the stock price increased 
 - Class 2-> the stock price stayed the same or decreased
 
+nlp
+projects
+
+done my changes
+
 1
 0
+
