@@ -12,3 +12,5 @@ the dataset in consideration is a combination of world news and stock price shif
 
 nlp
 projects
+
+done my changes
